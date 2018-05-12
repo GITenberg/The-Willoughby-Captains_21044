@@ -1,0 +1,31 @@
+_repo: The-Willoughby-Captains_21044
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reed, Talbot Baines
+    birthdate: 1852
+    deathdate: 1893
+    gutenberg_agent_id: '9657'
+    url: http://www.gutenberg.org/2009/agents/9657
+    wikipedia: http://en.wikipedia.org/wiki/Talbot_Baines_Reed
+description: ''
+gutenberg_bookshelf: School Stories
+gutenberg_issued: '2007-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21044'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boarding schools -- England -- Juvenile fiction'
+- !lcsh 'Schools -- Fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Students -- Social life and customs -- Juvenile fiction'
+title: The Willoughby Captains
+url: http://www.gutenberg.org/ebooks/21044
